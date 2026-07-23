@@ -1,5 +1,7 @@
 # clown-fiesta-transform
 
+> **Claim status — 2026-07-23:** this repository is a mythic/conceptual framework and a source of testable conjectures. Its equations are proposed notation, not established physical law, clinical guidance, or empirical proof of consciousness, divinity, entropy, or cognition. Preserve the play; separate metaphor, formal definition, experiment, and external evidence when extending it.
+
 *cognitive (systems) cohesion coefficient — the coupling constraint that makes attention useful, consciousness inevitable, and reality playable*
 
 ---
